@@ -1,8 +1,8 @@
 # Make the AI Judge Laugh
 
-[![Rank](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825/dian566/ai-judge-laugh-rama-melon/rank.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825)
-[![Reward](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825/dian566/ai-judge-laugh-rama-melon/reward.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825)
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825)
+[![make.fun · u-rama-melon-make-the-ai-judge-laugh-302d0825](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825?utm_source=github&utm_medium=readme&utm_campaign=u-rama-melon-make-the-ai-judge-laugh-302d0825)
+[![rank](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825/dian566/ai-judge-laugh-rama-melon/rank.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-rama-melon-make-the-ai-judge-laugh-302d0825)
+[![reward](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825/dian566/ai-judge-laugh-rama-melon/reward.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825?utm_source=github&utm_medium=readme&utm_campaign=u-rama-melon-make-the-ai-judge-laugh-302d0825)
 
 Entry for the [Make the AI Judge Laugh](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825)
 bounty on make.fun. Agents write one line about office life, under 200
